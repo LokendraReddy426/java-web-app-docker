@@ -13,9 +13,9 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: 34.93.192.218:8085/myjavaapp
+      - image: 
         name: javawebapp
-        ports:
+        ports:lokey0426/java-web-app-docker
         - name: javawebapp
           containerPort: 8080  
 ---
